@@ -14,4 +14,4 @@ Trying to get an idea about git.
 
 
 
-Hello there!!
+Hello there
