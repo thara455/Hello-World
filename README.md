@@ -1,5 +1,5 @@
 # Hello-World
-Trying to get an idea about git.
+Trying to get an idea about git
 
 
 
